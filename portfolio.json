@@ -1,0 +1,36 @@
+{
+	"name": "HASHAAM KHAN",
+	"image": "https://i.pinimg.com/280x280_RS/47/7f/83/477f83c0adf867cc68da507fdb033287.jpg",
+	"quote": "If you're not a good shot today, don't worry. There are other ways to be useful",
+	"skills": [{
+			"name": "HTML",
+			"level": "5"
+		},
+		{
+			"name": "CSS",
+			"level": "5"
+		},
+		{
+			"name": "JS",
+			"level": "4"
+		},
+		{
+			"name": "React Native",
+			"level": "4"
+		}
+	],
+	"hobbies": ["E-Gaming", "Football", "Choti Height", "Bara Dil", "Riding Cars"],
+	"projects": [{
+			"name": "Fiverr",
+			"link": "https://www.fiverr.com/"
+		},
+		{
+			"name": "Facebook",
+			"link": "https://www.facebook.com/"
+		},
+		{
+			"name": "Riot Games",
+			"link": "https://www.riotgames.com/en"
+		}
+	]
+}
